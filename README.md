@@ -12,4 +12,4 @@
 <p>code here</p>
 <pre><code>Hellow World
 <Pre/><code/>
-#It's not completed, I'll finish soon via <a href=http://www.ip4a.com/t/518.html" title="Title"> HERE </a>
+#It's not completed, I'll finish soon via <a href="http://www.ip4a.com/t/518.html" title="Title"> HERE </a>and <a href="https://blog.kuoruan.com/82.html" title="Title">HERE </a>
