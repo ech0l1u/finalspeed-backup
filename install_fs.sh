@@ -5,7 +5,8 @@ export PATH
 
 install_path=/fs/
 #package_download_url=http://fs.d1sm.net/finalspeed/finalspeed_server.zip
-package_download_url=https://soft.kuoruan.com/finalspeed/finalspeed_server.zip
+#package_download_url=https://soft.kuoruan.com/finalspeed/finalspeed_server.zip
+package_downloda_url=http://o8vla3xz8.bkt.clouddn.com/zip/zip/finalspeed_server.zipfinalspeed_server.zip
 package_save_name=finalspeed_server.zip
  
 function checkjava(){
