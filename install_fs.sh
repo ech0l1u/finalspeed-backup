@@ -5,8 +5,7 @@ export PATH
 
 install_path=/fs/
 #package_download_url=http://fs.d1sm.net/finalspeed/finalspeed_server.zip
-#package_download_url=https://soft.kuoruan.com/finalspeed/finalspeed_server.zip
-package_downloda_url=http://o8vla3xz8.bkt.clouddn.com/zip/zip/finalspeed_server.zipfinalspeed_server.zip
+http://o8vla3xz8.bkt.clouddn.com/finalspeed_server.zip
 package_save_name=finalspeed_server.zip
  
 function checkjava(){
@@ -133,7 +132,7 @@ function checkos(){
 function install_finalspeed(){
 	rm -f $package_save_name
 	echo "Download software..."
-	if ! wget -O $package_save_name $package_download_url ; then
+	if ! wget http://o8vla3xz8.bkt.clouddn.com/finalspeed_server.zip; then
 		echo "Download software failed!"
 		exit 1
 	fi
