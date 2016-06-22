@@ -4,8 +4,6 @@ export PATH
 
 
 install_path=/fs/
-#package_download_url=http://fs.d1sm.net/finalspeed/finalspeed_server.zip
-http://o8vla3xz8.bkt.clouddn.com/finalspeed_server.zip
 package_save_name=finalspeed_server.zip
  
 function checkjava(){
